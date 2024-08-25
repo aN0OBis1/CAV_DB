@@ -1,0 +1,4 @@
+name,cur_ver,old_ver,dependency,connections,known_vul
+AutoCarX,1.2.3,1.2.2,LibA:1.0.0;LibB:2.3.4,"Device1,Device2","Vul1"
+AutoCarY,2.0.1,2.0.0,LibC:3.0.0;LibD:1.1.1,"Device3,Device4","Vul3,Vul4"
+AutoCarZ,3.1.0,3.0.9,LibE:4.2.2;LibF:5.5.5,"Device5,Device6","Vul2"

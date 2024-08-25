@@ -1,0 +1,5 @@
+id_code,description,severity,solution
+1,Open port 22,High,Close port if not needed or use firewall rules
+2,Default credentials,Medium,Change default credentials immediately
+3,Outdated firmware,High,Update firmware to the latest version
+4,Unencrypted communication,High,Implement encryption (e.g; TLS)

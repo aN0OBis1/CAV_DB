@@ -1,0 +1,4 @@
+mac,manu,oui,dev_type,vulnerabilities
+00:1A:2B:3C:4D:5E,ManufacturerA,001A2B,Sensor,"Vul1, Vul2"
+00:1A:2B:3C:4D:5F,ManufacturerB,001A2C,Controller,"Vul3"
+00:1A:2B:3C:4D:60,ManufacturerC,001A2D,Camera,"Vul1, Vul4"

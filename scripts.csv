@@ -1,0 +1,4 @@
+id_code,type,description,script
+1,Port Scan,Scans for open ports,"nmap -p 1-65535 -T4"
+2,MAC Address Scan,Scans for MAC addresses,"arp-scan -l"
+3,Vulnerability Scan,Scans for known vulnerabilities,"nmap --script vuln"
